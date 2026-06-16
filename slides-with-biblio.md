@@ -184,5 +184,24 @@ Key observations:
 ::::
 
 ---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Distribution of Verbal Scores
+This histogram displays the distribution of 'Verbal' scores from the `bigclass` dataset.
+
+Key observations:
+- Observe the most frequent score ranges.
+- Identify if the distribution is symmetric, skewed, or multimodal.
+- Note any unusually high or low scores.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/verbal_scores_histogram.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+---
 # Bibliography
 <div id="refs"></div>
