@@ -107,3 +107,39 @@ Key observations:
 :::
 
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Distribution of Math Scores
+This histogram shows the distribution of 'Math' scores from the `bigclass` dataset.
+
+Key observations:
+- Most scores appear to be in the range of 300-500.
+- The distribution seems to be somewhat left-skewed, with a tail towards lower scores.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/math_scores_histogram.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Distribution of Math Scores
+This histogram shows the distribution of 'Math' scores from the `bigclass` dataset.
+
+Key observations:
+- Most scores appear to be in the range of 300-500.
+- The distribution seems to be somewhat left-skewed, with a tail towards lower scores.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/math_scores_histogram.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
