@@ -162,3 +162,22 @@ Key observations:
 :::
 
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Distribution of Math Scores (New)
+This histogram shows the distribution of 'Math' scores from the `bigclass` dataset.
+
+Key observations:
+- Observe the most frequent score ranges.
+- Identify if the distribution is symmetric, skewed, or multimodal.
+- Note any unusually high or low scores.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/math_scores_histogram_new.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
